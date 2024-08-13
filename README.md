@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prince Sharma</h1>
 <h3 align="center">An Aspiring Software developer from India</h3>
 
+<div align="center"><img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/></div><br> 
+
 - 🔭 I’m currently working on **ACCS**
 
 - 🌱 I’m currently learning **Node.js, Express.js**
