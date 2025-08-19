@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Prince Sharma</h1>
-<h3 align="center">An Aspiring Software developer from India</h3>
+<h3 align="center">An Aspiring Software developer</h3>
 
 <div align="center"><img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/></div><br> 
 
-- 🔭 I’m currently working on **TRACKU**
+- 🔭 I’m currently working on **Upskilling**
 
-- 🌱 I’m currently learning **Node.js, Express.js**
+- 🌱 I’m currently Seeking **Opportunities to Grow**
 
-- 👯 I’m looking to collaborate on **GSOC**
+- 👯 I’m looking to collaborate on **Real World Challenges**
 
-- 💬 Ask me about **MERN, DSA**
+- 💬 Ask me about **MERN, DSA, Core Computer Fundamentals**
 
 - 📫 How to reach me **prince2007sharma@gmail.com**
 
